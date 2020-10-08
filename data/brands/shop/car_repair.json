@@ -53,6 +53,18 @@
       }
     },
     {
+      "displayName": "Automester",
+      "locationSet": {
+        "include": ["dk"]
+      },
+      "tags": {
+        "brand": "Automester",
+        "name": "Automester",
+        "shop": "car_repair",
+        "website": "https://automester.dk/find-vaerksted"
+      }
+    },
+    {
       "displayName": "Autoservis",
       "id": "autoservis-dc8719",
       "locationSet": {"include": ["001"]},
@@ -170,17 +182,6 @@
         "brand:wikidata": "Q6746",
         "brand:wikipedia": "fr:Citroën",
         "name": "Citroën",
-        "shop": "car_repair"
-      }
-    },
-    {
-      "displayName": "ETB Autocentres",
-      "locationSet": {"include": ["gb"]},
-      "matchNames": ["ETB Tyres"],
-      "tags": {
-        "brand": "ETB Autocentres",
-        "brand:wikidata": "Q100143091",
-        "name": "ETB Autocentres",
         "shop": "car_repair"
       }
     },
