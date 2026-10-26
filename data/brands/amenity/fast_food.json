@@ -4891,6 +4891,7 @@
     },
     {
       "displayName": "Holy Cow!",
+      "id": "holycow-2fcd78",
       "locationSet": {"include": ["ch"]},
       "tags": {
         "alt_name": "Holy Cow! Gourmet Burger Co.",
@@ -4901,7 +4902,7 @@
         "name": "Holy Cow!",
         "takeaway": "yes"
       }
-    },    
+    },
     {
       "displayName": "Home Burgers",
       "id": "homeburgers-9bc101",
@@ -10562,8 +10563,23 @@
     },
     {
       "displayName": "Sushi Daily",
-      "id": "sushidaily",
-      "locationSet": {"include": ["fr","es","pt","de","uk","nl","be","it","se","fi","mx","fo"]},
+      "id": "sushidaily-94e04a",
+      "locationSet": {
+        "include": [
+          "be",
+          "de",
+          "es",
+          "fi",
+          "fo",
+          "fr",
+          "gb",
+          "it",
+          "mx",
+          "nl",
+          "pt",
+          "se"
+        ]
+      },
       "tags": {
         "amenity": "fast_food",
         "brand": "Sushi Daily",
